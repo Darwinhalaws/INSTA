@@ -6,10 +6,10 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/GANGSTERR-YAKUZZA/NANGG-IG
+$ git clone https://github.com/GANGSTERR-YAKUZZA/INSTA
 
-$ cd NANGG-IG
+$ cd INSTA
 
 $ git pull
 
-$ python NANGG-IG.py
+$ python INSTA.py
